@@ -9,3 +9,5 @@ DEHM stands for Digital Ellipsoid Height Model
 2. Merge DEHM fle 
 3. Downsample DEHM file to 50%
 
+## References 
+* Refer to Japan's GSI for more information about DEHM details
